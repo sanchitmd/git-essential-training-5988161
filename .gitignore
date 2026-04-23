@@ -4,4 +4,5 @@ node_modules
 npm-debug.log
 
 log01.log
-folder2/
+folder2/log02.log
+log03.log
